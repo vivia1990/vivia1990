@@ -1,7 +1,12 @@
 Michele Viviani, <br>
 Verona 🏛️🇸🇪 <br>
 Italy 🇮🇹 <br>
-UniVr 📚
+UniVr 📚 <br>
+
+<a href="https://stackoverflow.com/users/15506915" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=15506915" />
+</a>
 
 
 ```
